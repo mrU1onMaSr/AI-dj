@@ -1,0 +1,21 @@
+#head{
+    background-color: cadetblue;
+    margin: 0px;
+    font-family: 'Palette Mosaic', cursive;
+    padding: 25px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sng{
+    font-size: 60px;
+}
+
+canvas{
+    border-radius: 12px;
+    border: 3px dotted black;
+    width: 500px;
+    margin: 50px;
+    background-color: cornsilk;
+}
